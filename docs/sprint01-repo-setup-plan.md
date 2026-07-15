@@ -14,7 +14,7 @@
 
 ## Access & roles
 - Hitesh — owner/admin
-- Sujay — maintainer (write access)
+- Sujay — current maintainer (write access)
 - Ruthwik — write access
 
 ## Definition of done for Sprint 01
