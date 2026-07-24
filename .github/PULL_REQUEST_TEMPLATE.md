@@ -27,3 +27,14 @@ How did you test your changes?
 - [ ] Documentation updated
 - [ ] Tested locally
 - [ ] No unnecessary files included
+
+Closes #20
+
+## Changes
+- Added GitHub Pull Request template
+- Added linked issue section
+- Added testing checklist
+- Added security/risk review section
+- Added documentation update section
+- Added content output section
+- Added Hitesh review checklist
